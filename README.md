@@ -1,2 +1,2 @@
-# Automated-Decision-Maker
-Automated Decision Maker in Python
+# RANDOMIZER
+Randomizer automates decision making in python
